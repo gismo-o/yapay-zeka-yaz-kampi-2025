@@ -9,7 +9,7 @@ Neden Kullanırız ?
 
 NEDİR ?
 
-![](resim1.png)
+![](https://github.com/user-attachments/assets/4a2b3fb4-29e8-491b-a7d5-a36cbd7cf3bd)
 
 YAPAY ZEKA: İnsan zekasının bilgisayarlar, yazılımlar veya makineler aracılığıyla taklit edilmesi sürecidir.
 
@@ -42,7 +42,7 @@ Bir yapay sinir ağı,
 
 Derin Öğrenme; Yapay sinir ağlarının fazla sayıda katmana sahip olması durumudur.
 
-![](resim2.png)
+![](https://github.com/user-attachments/assets/16afd208-149f-4704-ab89-a94a63826db1)
 
 ### Deep Learning Algoritmalarında Kullanılan Kütüphaneler
 
@@ -74,7 +74,7 @@ Derin Öğrenme; Yapay sinir ağlarının fazla sayıda katmana sahip olması du
 
 - O yüzden öğrenmeyi fazla uzatmamalı, tam kararında bırakmalıyız.
 
-## ![](resim3.png)
+## ![](https://github.com/user-attachments/assets/067be211-b011-4472-a2ef-35af9fabdfe9)
 
 ## **NOT: BİAS değeri** sayesinde çıktıları daha başarılı şekilde güncelleyip daha iyi sonuçlar elde edebiliriz. Örneğin sadece weight (w) değerlerini güncelleyerek ilerleseydik tek bir noktadan güncelleme yaptığımız için modelin başarı performansını istediğimiz gibi yükseltemeyebilirdik. Bu nedenle bias ekliyoruz.
 
@@ -191,7 +191,7 @@ Modelin her katmandaki ağırlıkların ve biasların kaybı minimize edecek şe
 
 ## CNN (Convolutional Neural Network) MİMARİSİ
 
-![](resim4.jpg)
+![](https://github.com/user-attachments/assets/bea27c1f-aac0-4bb4-89f0-e3a7df211bc5)
 
 Convolution Layers
 
